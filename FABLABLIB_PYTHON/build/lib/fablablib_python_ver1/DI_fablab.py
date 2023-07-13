@@ -1,0 +1,2 @@
+class DigitalInput:
+    pass

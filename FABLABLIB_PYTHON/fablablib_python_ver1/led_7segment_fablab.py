@@ -1,0 +1,2 @@
+class LEDSevenSegment:
+    pass

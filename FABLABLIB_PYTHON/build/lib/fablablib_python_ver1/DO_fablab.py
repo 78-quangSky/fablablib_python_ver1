@@ -1,0 +1,2 @@
+class DigitalOutput:
+    pass
