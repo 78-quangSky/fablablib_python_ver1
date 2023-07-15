@@ -5,6 +5,5 @@ Generate necessary modules for FABLAB using Python
 
 Install:
 
-'''
 pip install fablablib-python-ver1
-'''
+
